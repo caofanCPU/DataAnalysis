@@ -13,6 +13,11 @@
 - [GUI plot](https://github.com/caofanCPU/DataAnalysis/tree/master/src/com/xyz/cf/DataVisualization.java)
 - [Database operation by c3p0Utils and mysql connector](https://github.com/caofanCPU/DataAnalysis/tree/master/src/com/xyz/util/C3P0Util.java)
 - [Encapsulating Data to a entity into TreeMap storage](https://github.com/caofanCPU/DataAnalysis/tree/master/src/com/xyz/domain/CoordinateData.java)
+***
+##Highligths
+![ErrorAnalysis](http://i2.muimg.com/588926/89788ed6c927ae95.jpg)  
+![DataMatrix](http://i1.piimg.com/588926/ae052d785b911c5f.jpg)  
 
+***
 ## Remarks
 &ensp;&emsp;&ensp;&emsp;You should read the reference document [**Algorithm principle**](https://github.com/caofanCPU/DataAnalysis/tree/master/doc/弦轴孔定位算法原理.pdf) for your quickStart. If you're all eagerness to see results, just executive [`DataAnalysis.jar`](https://github.com/caofanCPU/DataAnalysis/tree/master/jar/DataAnalysis.jar).
