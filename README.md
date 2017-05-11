@@ -20,4 +20,4 @@
 
 ***
 ## Remarks
-&ensp;&emsp;&ensp;&emsp;Reading the reference document [**Algorithm principle**](https://github.com/caofanCPU/DataAnalysis/tree/master/doc/弦轴孔定位算法原理.pdf) careful to know the algorithm principle and steps of coding before your quick start. If you're all eagerness to see results, just executive [`DataAnalysis.jar`](https://github.com/caofanCPU/DataAnalysis/tree/master/jar/DataAnalysis.jar).
+&ensp;&emsp;&ensp;&emsp;Before your quick start of this project by Java, it will be helpful that reading the reference document [**Algorithm principle**](https://github.com/caofanCPU/DataAnalysis/tree/master/doc/弦轴孔定位算法原理.pdf) carefully to know the algorithm principle and steps of coding. If you're all eagerness to see results, just executive [`DataAnalysis.jar`](https://github.com/caofanCPU/DataAnalysis/tree/master/jar/DataAnalysis.jar).
